@@ -1,6 +1,8 @@
 # EvaLynch_ExploreOpenSource
 This repository was created during the Girls Who Code College Loops Explore Open Source Challenge.
 
+It is an awesome repository!
+
 This project is part of the Explore Open Source Challenge through Girls Who Code and College Loops. In this challenge, we responded to the following prompt:
 
 Delilah is a self-starter, and she created an app to get young girls excited about learning technology. Many kids have already tested the app, and she has been getting very positive reviews.
